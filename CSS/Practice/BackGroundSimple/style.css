@@ -1,12 +1,7 @@
-.grediant{
-    background :linear-gradient(orange,white,green);
-    /* linear-gradient(to bottom, #ffffff, #000000); */
-    
+.grediant {
+    background: linear-gradient(hsl(39, 100%, 50%, 1), hsl(0, 0%, 100%, 0.2), hsl(120, 100%, 25%, 0.2)), url(./wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+   
     background-size: cover;
-    background-size: contain;
     height: 500px;
-    border: solid 2px greenyellow;
-}
-.abc{
-    background-size:cover;
 }
